@@ -8,6 +8,7 @@ May, 2024.
 
 Example how to use llama locally (not needed an internet connection using ollama).
 
+This is adapted from https://www.youtube.com/watch?v=_dDaNgBDoHY&t=460s
 
 ## Installation
 
@@ -27,4 +28,7 @@ pip install requiremets.txt
 
 Follow the instructions from ollama.com
 
+- install llama3 using ollama
+
+ollama pull llama3
 

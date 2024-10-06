@@ -32,3 +32,8 @@ This is adapted from https://www.youtube.com/watch?v=_dDaNgBDoHY&t=460s
 
 ```ollama pull llama3```
 
+## Run the app
+
+```streamlit run main.py```
+
+
